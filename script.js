@@ -1,4 +1,4 @@
-const name = "咲良"; // ← 好きな子の名前
+const name = "ゆづき先輩"; // ← 好きな子の名前
 
 window.addEventListener("load", () => {
 
